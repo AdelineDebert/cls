@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Projets</title>
+  <link rel="stylesheet" href="CSS/style.css" media="screen" title="no title" charset="utf-8">
+  <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,600,700' rel='stylesheet' type='text/css'>
+</head>
+<body onload="project_gallery(); affichePhoto(); afficheProjet(); ">
+  <section id="section_menu">
+
+    <div id="menu">
+      <div id="logo_menu"><img src="Images/LogoCLS.jpg" alt="" /></div>
+      <ul>
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="atelier.html">Atelier</a></li>
+        <li><a href="projets.html">Projets</a></li>
+        <li>Contacts</li>
+      </ul>
+    </div>
+
+    <section id="container_projets">
+      <h1 id="titre_projets">Projets</h1>
+
+      <div id="filtre_projet">
+        <ul>
+          <li onclick="filter(0);">Toutes les catégories</li>
+          <li onclick="filter(1);">Habitats privés</li>
+          <li onclick="filter(2);">Tertiaire</li>
+          <li onclick="filter(3);">Aménagements Paysagers</li>
+        </ul>
+      </div>
+
+      <div id="contenu_projets"></div>
+
+    </section>
+
+      <section id="slider_projet">
+
+        <div id="photos_projets"></div>
+        <div id="description_projets"></div>
+
+      </section>
+
+
+
+    </section>
+
+
+</body>
+
+<script src="Script/script.js"></script>
+<script src="Script/projet.js"></script>
+<script src="Script/slider.js"></script>
+
+</html>

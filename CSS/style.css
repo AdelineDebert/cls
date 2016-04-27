@@ -1,0 +1,269 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  box-sizing: border-box;
+  font-family: 'Titillium Web', sans-serif;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/*----------------------------------------- HEADER*/
+header{
+  height: 100vh;
+}
+
+/*-------------------- Menu*/
+#section_menu{
+  height: 100vh;
+}
+#menu{
+  position: fixed;
+  background-color:  rgb(174, 25, 21);
+  height: 100vh;
+  width: 18vw;
+  padding:30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-weight: 200;
+  color: white;
+}
+#menu li a{
+  text-decoration: none;
+  color: white;
+}
+
+#logo_menu img{
+  width: 8vw;
+  margin-bottom: 60px;
+}
+#menu ul{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 5vh;
+}
+#menu li{
+  list-style-type: none;
+  padding-top: 20px;
+  font-size: 1.2em;
+}
+
+/*------------------ Titres + logo*/
+
+#container_titre{
+  display: flex;
+  justify-content: flex-end;
+  height: 30vh;
+}
+#titre{
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  margin-right: 8vw;
+  text-align: right;
+  font-size: 2em;
+  font-family: 'Architects Daughter', cursive;
+}
+
+/*-----------------------------------------------------------------------------L'ATELIER*/
+
+/*---------------------------------Header atelier*/
+#container_presentation{
+  margin-left: 15vw;
+}
+#titre_atelier{
+  padding: 5% 5% 0% 5%;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 3em;
+}
+#galerie_photo_atelier{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  align-items: baseline;
+}
+#img_atelier{
+  background-image: url("../Images/bgcls.jpg");
+}
+#img_carole{
+  background-image: url("../Images/femme_archi.jpg");
+}
+#img_equipe{
+  background-image: url("../Images/equipe_archi.jpg");
+}
+.img_galerie{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 20vw;
+  height: 30vh;
+  background-size: cover;
+  filter: grayscale(1);
+      -webkit-filter: grayscale(1);
+      -moz-filter: grayscale(1);
+}
+.img_galerie:hover, .img_click{
+  filter: grayscale(0);
+        -webkit-filter: grayscale(0);
+        -moz-filter: grayscale(0);
+  cursor: pointer;
+}
+.img_galerie span{
+  visibility: hidden;
+  background-color: rgba(255, 255, 255, 0.7);
+  font-size: 1.5em;
+  color: rgb(174, 25, 21);
+  width: 100%;
+  text-align: center;
+}
+.img_click span, .img_galerie:hover span{
+  visibility: visible;
+}
+/*--------------------------------------Texte partie atelier*/
+
+#container_texte_atelier{
+  height: 30vh;
+  margin: 10px;
+  z-index: -10;
+}
+#presentation_atelier, #presentation_carole, #presentation_equipe{
+  padding: 0% 10% 10% 10%;
+}
+#presentation_carole, #presentation_equipe{
+  display: none;
+}
+
+
+/*------------------------------------------------------------------------------LES PROJETS*/
+
+#container_projets{
+  margin-left: 18vw;
+  z-index: -15000;
+}
+
+#titre_projets{
+  padding: 5% 5% 3% 5%;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 3em;
+}
+
+/*------------------------------------ Galerie miniatures de projets*/
+
+.project_div{
+  height: 30vh;
+  width: 13vw;
+  margin-bottom: 3vh;
+  display: flex;
+  align-items: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: grayscale(1);
+      -webkit-filter: grayscale(1);
+      -moz-filter: grayscale(1);
+  animation: fadeIn 1s;
+}
+
+@keyframes fadeIn {
+  from{ opacity: 0;}
+  to{ opacity: 1;}
+}
+
+.project_div:hover{
+  text-align: center;
+  font-size: 1.5em;
+  cursor: pointer;
+  filter: grayscale(0);
+        -webkit-filter: grayscale(0);
+        -moz-filter: grayscale(0);
+}
+
+.project_div span{
+  visibility: hidden;
+  background-color: rgba(255, 255, 255, 0.7);
+  font-size: 0.7em;
+  font-weight: 600;
+  color: rgb(174, 25, 21);
+  width: 100%;
+  text-align: center;
+}
+.project_div:hover span{
+  visibility: visible;
+}
+
+#contenu_projets{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: 5%;
+}
+
+/*------------------------------ Boutons de filtre des projets*/
+
+#filtre_projet ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+#filtre_projet li{
+  margin: 3%;
+  padding: 1%;
+  background-color:  rgb(174, 25, 21);
+  color: white;
+  cursor: pointer;
+}
+
+#filtre_projet li:hover{
+  color: black;
+  background-color: lightgrey;
+}
+/*---------------------------------Affichage Slider de projets*/
+
+
+#photos_projets{
+  width: 30vw;
+  height: auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  margin: 3vw;
+}
+#description_projets{
+  width: 30vw;
+  height: 75vh;
+  background-color: lightcoral;
+  display: flex;
+  align-items: center;
+  margin: 3vw;
+}
+
+#slider_projet{
+  visibility: hidden;
+  position: fixed;
+  top: 0;
+  margin-left: 20vw;
+  margin-bottom: 5vh;
+  margin-top: 5vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: blue;
+  height: 90vh;
+  width: 77vw;
+  z-index: 15000;
+}
+
+.img_projet{
+  width: 100%;
+  height: 100%;
+}

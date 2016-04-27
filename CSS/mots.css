@@ -1,0 +1,36 @@
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-left: 15vw;
+  padding-top: 15vh;
+  height: 65vh;
+  background-image: url("../Images/dessin.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wordplaces {
+  width: 18vw;
+  height: 5vw;
+  font-size: 2em;
+  margin-left: 5vw;
+  color: rgb(174, 25, 21);
+  /*font-weight: bolder;*/
+  opacity: 0;
+  text-align: center;
+}
+
+@keyframes fadeIn {
+  from{
+    opacity: 0;
+  }
+  70%{
+    opacity: 1;
+  }
+  to{
+    opacity: 0;
+  }
+
+}
