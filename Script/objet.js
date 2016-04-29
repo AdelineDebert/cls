@@ -1,9 +1,3 @@
-/* le paramètre domaine correspond à la sous catégorie du projet :
-  domaine 1 = privé
-  domaine 2 = tertiaire
-  domaine 3 = paysager
-*/
-
 var projets = [
   {
     projet : {
@@ -15,17 +9,17 @@ var projets = [
       annee : "2015",
       ouvrage : "Privé",
       surface : "",
-      concept : "Dialogue entre une maison traditionnelle arcachonnaise et une architecture contemporaine. Création d’une intimité au sein d’un terrain entouré par la voie publique. Volonté de garder un grand espace paysager.",
+      concept : "Dialogue entre une maison traditionnelle arcachonnaise et une architecture contemporaine. Création d’une intimité au sein d’un terrain entouré par la voie publique. Volonté de garder un grand espace paysager."
       domaine : 1
     },
     images : [
-      "Images/prive001_1.JPG",
-      "Images/prive001_2.JPG",
-      "Images/prive001_3.jpg",
-      "Images/prive001_4.jpg",
-      "Images/prive001_5.JPG",
-      "Images/prive001_6.png"
-    ]
+      "prive001_1.JPG",
+      "prive001_2.JPG",
+      "prive001_3.jpg",
+      "prive001_4.jpg",
+      "prive001_5.JPG",
+      "prive001_6.png"
+    ];
   },
   {
     projet : {
@@ -40,14 +34,14 @@ var projets = [
       domaine : 1
     },
     images : [
-      "Images/prive002_1.png",
-      "Images/prive002_2.jpg",
-      "Images/prive002_3.png",
-      "Images/prive002_4.jpg",
-      "Images/prive002_5.png",
-      "Images/prive002_6.png",
-      "Images/prive002_7.png",
-    ]
+      "prive002_1.png",
+      "prive002_2.jpg",
+      "prive002_3.png",
+      "prive002_4.jpg",
+      "prive002_5.png",
+      "prive002_6.png",
+      "prive002_7.png",
+    ];
   },
   {
     projet : {
@@ -63,13 +57,13 @@ var projets = [
       domaine : 1
     },
     images : [
-      "Images/prive003_1.png",
-      "Images/prive003_2.png",
-      "Images/prive003_3.png",
-      "Images/prive003_4.png",
-      "Images/prive003_5.png",
-      "Images/prive003_6.png"
-    ]
+      "prive003_1.png",
+      "prive003_2.png",
+      "prive003_3.png",
+      "prive003_4.png",
+      "prive003_5.png",
+      "prive003_6.png"
+    ];
   },
   {
     projet : {
@@ -83,17 +77,17 @@ var projets = [
       domaine : 1
     },
     images : [
-      "Images/prive004_1.jpg",
-      "Images/prive004_2.jpg",
-      "Images/prive004_3.jpg",
-      "Images/prive004_4.jpg",
-      "Images/prive004_5.jpg",
-      "Images/prive004_6.jpg",
-      "Images/prive004_7.jpg",
-      "Images/prive004_8.jpg",
-      "Images/prive004_9.jpg",
-      "Images/prive004_910.jpg"
-    ]
+      "prive004_1.jpg",
+      "prive004_2.jpg",
+      "prive004_3.jpg",
+      "prive004_4.jpg",
+      "prive004_5.jpg",
+      "prive004_6.jpg",
+      "prive004_7.jpg",
+      "prive004_8.jpg",
+      "prive004_9.jpg",
+      "prive004_910.jpg"
+    ];
   },
   {
     projet : {
@@ -109,13 +103,13 @@ var projets = [
       domaine : 1
     },
     images : [
-      "Images/prive005_1.jpg",
-      "Images/prive005_2.jpg",
-      "Images/prive005_3.jpg",
-      "Images/prive005_4.jpg",
-      "Images/prive005_5.jpg",
-      "Images/prive005_6.jpg"
-    ]
+      "prive005_1.jpg",
+      "prive005_2.jpg",
+      "prive005_3.jpg",
+      "prive005_4.jpg",
+      "prive005_5.jpg",
+      "prive005_6.jpg"
+    ];
   },
   {
     projet : {
@@ -130,15 +124,15 @@ var projets = [
       domaine : 1
     },
     images : [
-      "Images/prive006_1.png",
-      "Images/prive006_2.png",
-      "Images/prive006_3.png",
-      "Images/prive006_4.png",
-      "Images/prive006_5.png",
-      "Images/prive006_6.png",
-      "Images/prive006_7.png",
-      "Images/prive006_8.jpg"
-    ]
+      "prive006_1.png",
+      "prive006_2.png",
+      "prive006_3.png",
+      "prive006_4.png",
+      "prive006_5.png",
+      "prive006_6.png",
+      "prive006_7.png",
+      "prive006_8.jpg"
+    ];
   },
   {
     projet : {
@@ -152,14 +146,14 @@ var projets = [
       domaine : 1
     },
     images : [
-      "Images/prive007_1.png",
-      "Images/prive007_2.png",
-      "Images/prive007_3.png",
-      "Images/prive007_4.png",
-      "Images/prive007_5.png",
-      "Images/prive007_6.png",
-      "Images/prive007_7.png"
-    ]
+      "prive007_1.png",
+      "prive007_2.png",
+      "prive007_3.png",
+      "prive007_4.png",
+      "prive007_5.png",
+      "prive007_6.png",
+      "prive007_7.png"
+    ];
   },
   {
     projet : {
@@ -174,13 +168,13 @@ var projets = [
       domaine : 1
   },
   images : [
-    "Images/prive008_1.png",
-    "Images/prive008_2.png",
-    "Images/prive008_3.png",
-    "Images/prive008_4.png",
-    "Images/prive008_5.png",
-    "Images/prive008_6.png"
-  ]
+    "prive008_1.png",
+    "prive008_2.png",
+    "prive008_3.png",
+    "prive008_4.png",
+    "prive008_5.png",
+    "prive008_6.png"
+  ];
 },
   {
     projet : {
@@ -196,14 +190,14 @@ var projets = [
       domaine : 1
   },
   images : [
-    "Images/prive009_1.png",
-    "Images/prive009_2.jpg",
-    "Images/prive009_3.jpg",
-    "Images/prive009_4.png",
-    "Images/prive009_5.png",
-    "Images/prive009_6.png",
-    "Images/prive009_7.png"
-  ]
+    "prive009_1.png",
+    "prive009_2.jpg",
+    "prive009_3.jpg",
+    "prive009_4.png",
+    "prive009_5.png",
+    "prive009_6.png",
+    "prive009_7.png"
+  ];
 },
   {
     projet : {
@@ -217,14 +211,14 @@ var projets = [
       domaine : 1
   },
   images : [
-    "Images/prive010_1.jpg",
-    "Images/prive010_2.jpg",
-    "Images/prive010_3.jpg",
-    "Images/prive010_4.jpg",
-    "Images/prive010_5.jpg",
-    "Images/prive010_6.jpg",
-    "Images/prive010_7.jpg"
-  ]
+    "prive010_1.jpg",
+    "prive010_2.jpg",
+    "prive010_3.jpg",
+    "prive010_4.jpg",
+    "prive010_5.jpg",
+    "prive010_6.jpg",
+    "prive010_7.jpg"
+  ];
 },
   {
     projet : {
@@ -238,14 +232,14 @@ var projets = [
       domaine : 1
   },
   images : [
-    "Images/prive011_1.png",
-    "Images/prive011_2.png",
-    "Images/prive011_3.png",
-    "Images/prive011_4.png",
-    "Images/prive011_5.png",
-    "Images/prive011_6.png",
-    "Images/prive011_7.png"
-  ]
+    "prive011_1.png",
+    "prive011_2.png",
+    "prive011_3.png",
+    "prive011_4.png",
+    "prive011_5.png",
+    "prive011_6.png",
+    "prive011_7.png"
+  ];
 },
   {
     projet : {
@@ -259,14 +253,14 @@ var projets = [
       domaine : 1
   },
   images : [
-    "Images/prive012_1.png",
-    "Images/prive012_2.png",
-    "Images/prive012_3.png",
-    "Images/prive012_4.png",
-    "Images/prive012_5.png",
-    "Images/prive012_6.png",
-    "Images/prive012_7.png"
-  ]
+    "prive012_1.png",
+    "prive012_2.png",
+    "prive012_3.png",
+    "prive012_4.png",
+    "prive012_5.png",
+    "prive012_6.png",
+    "prive012_7.png"
+  ];
 },
   {
     projet : {
@@ -281,80 +275,31 @@ var projets = [
       domaine : 1
   },
   images : [
-    "Images/prive013_1.png",
-    "Images/prive013_2.png",
-    "Images/prive013_3.png",
-    "Images/prive013_4.png",
-    "Images/prive013_5.png",
-    "Images/prive013_6.png",
-    "Images/prive013_7.png",
-    "Images/prive013_8.png",
-    "Images/prive013_9.png",
-    "Images/prive013_910.png",
-    "Images/prive013_911.png"
-  ]
-}
-//   {
-//     projet : {
-//       titre : "",
-//       lieu : "",
-//       annee : "2015",
-//       ouvrage : "Privé",
-//       surface : "",
-//       concept : "",
-//       domaine : 1
-//   },
-//   images : [
-//
-//   ];
-// }
-];
+    "prive013_1.png",
+    "prive013_2.png",
+    "prive013_3.png",
+    "prive013_4.png",
+    "prive013_5.png",
+    "prive013_6.png",
+    "prive013_7.png",
+    "prive013_8.png",
+    "prive013_9.png",
+    "prive013_910.png",
+    "prive013_911.png"
+  ];
+},
+  {
+    projet : {
+      titre : "",
+      lieu : "",
+      annee : "2015",
+      ouvrage : "Privé",
+      surface : "",
+      concept : "",
+      domaine : 1
+  },
+  images : [
 
-var project_box = document.getElementById("contenu_projets");
-var newDiv;
-var newSpan;
-
-// -------------------------- Fonction pour faire apparaître les miniatures de la photo
-// la plus représentative du projet
-
-function project_gallery(){
-  for(var i = 0; i < projets.length; i++){
-    giveMeDiv(i);
-  }
-};
-
-// création de la div avec un background image + écouteur d'évènement pour afficher le
-// titre de la photo au hover
-
-function giveMeDiv(i){
-  newDiv =  document.createElement("div");
-  project_box.appendChild(newDiv);
-  newDiv.setAttribute("class", "project_div");
-  newDiv.setAttribute("id", "projet_min"+i);
-  newDiv.style.backgroundImage = "url("+projets[i].images[0]+")";
-  newSpan = document.createElement("span");
-  newDiv.appendChild(newSpan);
-  newSpan.textContent = projets[i].projet.titre;
-}
-
-
-// Fonction pour le filtrage des projets rappel :
-// 1 -> habitat privé
-// 2 -> tertiaire
-// 3 -> Paysagers
-
-function filter(n){
-  clear_projets(project_box);
-  if(n === 0){
-    project_gallery();
-  }
-  for(var i = 0; i <= projets.length; i++){
-    if(projets[i].projet.domaine === n){
-      giveMeDiv(i);
-    }
-  }
-}
-
-function clear_projets(project_box){
-  project_box.innerHTML = "";
-}
+  ];
+},
+]
