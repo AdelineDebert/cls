@@ -8,7 +8,7 @@
   <link href='https://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,600,700' rel='stylesheet' type='text/css'>
 </head>
-<body onload="project_gallery(); affichePhoto(); afficheProjet(); ">
+<body onload="project_gallery();">
   <section id="section_menu">
 
     <div id="menu">
@@ -27,9 +27,12 @@
       <div id="filtre_projet">
         <ul>
           <li onclick="filter(0);">Toutes les catégories</li>
-          <li onclick="filter(1);">Habitats privés</li>
-          <li onclick="filter(2);">Tertiaire</li>
-          <li onclick="filter(3);">Aménagements Paysagers</li>
+          <li onclick="filter(1);">Habitat privé ou collectif</li>
+          <li onclick="filter(2);">Batiment Tertiaire</li>
+          <li onclick="filter(3);">Aménagement Extérieur</li>
+          <li onclick="filter(4);">Aménagement Intérieur</li>
+          <li onclick="filter(5);">Divers</li>
+
         </ul>
       </div>
 
@@ -37,12 +40,34 @@
 
     </section>
 
-      <section id="slider_projet">
+    <section id="slider_projet">
+      <img src="Images/croix.png" alt="" id="croix" onclick="cachetoi();"/>
 
-        <div id="photos_projets"></div>
-        <div id="description_projets"></div>
+      <div id="container_photos_projet">
+        <div class="chevron" id="previous" onclick="precedent()"></div>
+        <div id="img_projet"></div>
+        <div class="chevron" id="next" onclick="suivant()"></div>
+      </div>
 
-      </section>
+      <div id="down_part">
+        <div id="description_part">
+          <div id="description_projet"></div>
+          <div id="concept_projet"></div>
+
+        </div>
+
+        <div id="details_projet">
+          <div id="lieu_projet"></div>
+          <div id="annee_projet"></div>
+          <div id="ouvrage_projet"></div>
+          <div id="surface_projet"></div>
+        </div>
+      </div>
+    </section>
+
+
+
+</section>
 
 
 
@@ -53,6 +78,6 @@
 
 <script src="Script/script.js"></script>
 <script src="Script/projet.js"></script>
-<script src="Script/slider.js"></script>
+<!-- <script src="Script/slider.js"></script> -->
 
 </html>

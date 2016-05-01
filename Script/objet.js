@@ -9,17 +9,17 @@ var projets = [
       annee : "2015",
       ouvrage : "Privé",
       surface : "",
-      concept : "Dialogue entre une maison traditionnelle arcachonnaise et une architecture contemporaine. Création d’une intimité au sein d’un terrain entouré par la voie publique. Volonté de garder un grand espace paysager."
+      concept : "Dialogue entre une maison traditionnelle arcachonnaise et une architecture contemporaine. Création d’une intimité au sein d’un terrain entouré par la voie publique. Volonté de garder un grand espace paysager.",
       domaine : 1
     },
     images : [
-      "prive001_1.JPG",
-      "prive001_2.JPG",
-      "prive001_3.jpg",
-      "prive001_4.jpg",
-      "prive001_5.JPG",
-      "prive001_6.png"
-    ];
+      "Images/prive001_1.JPG",
+      "Images/prive001_2.JPG",
+      "Images/prive001_3.jpg",
+      "Images/prive001_4.jpg",
+      "Images/prive001_5.JPG",
+      "Images/prive001_6.png"
+    ]
   },
   {
     projet : {
@@ -34,14 +34,14 @@ var projets = [
       domaine : 1
     },
     images : [
-      "prive002_1.png",
-      "prive002_2.jpg",
-      "prive002_3.png",
-      "prive002_4.jpg",
-      "prive002_5.png",
-      "prive002_6.png",
-      "prive002_7.png",
-    ];
+      "Images/prive002_1.png",
+      "Images/prive002_2.jpg",
+      "Images/prive002_3.png",
+      "Images/prive002_4.jpg",
+      "Images/prive002_5.png",
+      "Images/prive002_6.png",
+      "Images/prive002_7.png"
+    ]
   },
   {
     projet : {
@@ -57,13 +57,13 @@ var projets = [
       domaine : 1
     },
     images : [
-      "prive003_1.png",
-      "prive003_2.png",
-      "prive003_3.png",
-      "prive003_4.png",
-      "prive003_5.png",
-      "prive003_6.png"
-    ];
+      "Images/prive003_1.png",
+      "Images/prive003_2.png",
+      "Images/prive003_3.png",
+      "Images/prive003_4.png",
+      "Images/prive003_5.png",
+      "Images/prive003_6.png"
+    ]
   },
   {
     projet : {
@@ -77,17 +77,17 @@ var projets = [
       domaine : 1
     },
     images : [
-      "prive004_1.jpg",
-      "prive004_2.jpg",
-      "prive004_3.jpg",
-      "prive004_4.jpg",
-      "prive004_5.jpg",
-      "prive004_6.jpg",
-      "prive004_7.jpg",
-      "prive004_8.jpg",
-      "prive004_9.jpg",
-      "prive004_910.jpg"
-    ];
+      "Images/prive004_1.jpg",
+      "Images/prive004_2.jpg",
+      "Images/prive004_3.jpg",
+      "Images/prive004_4.jpg",
+      "Images/prive004_5.jpg",
+      "Images/prive004_6.jpg",
+      "Images/prive004_7.jpg",
+      "Images/prive004_8.jpg",
+      "Images/prive004_9.jpg",
+      "Images/prive004_910.jpg"
+    ]
   },
   {
     projet : {
@@ -103,13 +103,13 @@ var projets = [
       domaine : 1
     },
     images : [
-      "prive005_1.jpg",
-      "prive005_2.jpg",
-      "prive005_3.jpg",
-      "prive005_4.jpg",
-      "prive005_5.jpg",
-      "prive005_6.jpg"
-    ];
+      "Images/prive005_1.jpg",
+      "Images/prive005_2.jpg",
+      "Images/prive005_3.jpg",
+      "Images/prive005_4.jpg",
+      "Images/prive005_5.jpg",
+      "Images/prive005_6.jpg"
+    ]
   },
   {
     projet : {
@@ -124,15 +124,15 @@ var projets = [
       domaine : 1
     },
     images : [
-      "prive006_1.png",
-      "prive006_2.png",
-      "prive006_3.png",
-      "prive006_4.png",
-      "prive006_5.png",
-      "prive006_6.png",
-      "prive006_7.png",
-      "prive006_8.jpg"
-    ];
+      "Images/prive006_1.png",
+      "Images/prive006_2.png",
+      "Images/prive006_3.png",
+      "Images/prive006_4.png",
+      "Images/prive006_5.png",
+      "Images/prive006_6.png",
+      "Images/prive006_7.png",
+      "Images/prive006_8.jpg"
+    ]
   },
   {
     projet : {
@@ -146,14 +146,14 @@ var projets = [
       domaine : 1
     },
     images : [
-      "prive007_1.png",
-      "prive007_2.png",
-      "prive007_3.png",
-      "prive007_4.png",
-      "prive007_5.png",
-      "prive007_6.png",
-      "prive007_7.png"
-    ];
+      "Images/prive007_1.png",
+      "Images/prive007_2.png",
+      "Images/prive007_3.png",
+      "Images/prive007_4.png",
+      "Images/prive007_5.png",
+      "Images/prive007_6.png",
+      "Images/prive007_7.png"
+    ]
   },
   {
     projet : {
@@ -168,13 +168,13 @@ var projets = [
       domaine : 1
   },
   images : [
-    "prive008_1.png",
-    "prive008_2.png",
-    "prive008_3.png",
-    "prive008_4.png",
-    "prive008_5.png",
-    "prive008_6.png"
-  ];
+    "Images/prive008_1.png",
+    "Images/prive008_2.png",
+    "Images/prive008_3.png",
+    "Images/prive008_4.png",
+    "Images/prive008_5.png",
+    "Images/prive008_6.png"
+  ]
 },
   {
     projet : {
@@ -190,14 +190,14 @@ var projets = [
       domaine : 1
   },
   images : [
-    "prive009_1.png",
-    "prive009_2.jpg",
-    "prive009_3.jpg",
-    "prive009_4.png",
-    "prive009_5.png",
-    "prive009_6.png",
-    "prive009_7.png"
-  ];
+    "Images/prive009_1.png",
+    "Images/prive009_2.jpg",
+    "Images/prive009_3.jpg",
+    "Images/prive009_4.png",
+    "Images/prive009_5.png",
+    "Images/prive009_6.png",
+    "Images/prive009_7.png"
+  ]
 },
   {
     projet : {
@@ -211,14 +211,14 @@ var projets = [
       domaine : 1
   },
   images : [
-    "prive010_1.jpg",
-    "prive010_2.jpg",
-    "prive010_3.jpg",
-    "prive010_4.jpg",
-    "prive010_5.jpg",
-    "prive010_6.jpg",
-    "prive010_7.jpg"
-  ];
+    "Images/prive010_1.jpg",
+    "Images/prive010_2.jpg",
+    "Images/prive010_3.jpg",
+    "Images/prive010_4.jpg",
+    "Images/prive010_5.jpg",
+    "Images/prive010_6.jpg",
+    "Images/prive010_7.jpg"
+  ]
 },
   {
     projet : {
@@ -232,14 +232,14 @@ var projets = [
       domaine : 1
   },
   images : [
-    "prive011_1.png",
-    "prive011_2.png",
-    "prive011_3.png",
-    "prive011_4.png",
-    "prive011_5.png",
-    "prive011_6.png",
-    "prive011_7.png"
-  ];
+    "Images/prive011_1.png",
+    "Images/prive011_2.png",
+    "Images/prive011_3.png",
+    "Images/prive011_4.png",
+    "Images/prive011_5.png",
+    "Images/prive011_6.png",
+    "Images/prive011_7.png"
+  ]
 },
   {
     projet : {
@@ -253,14 +253,14 @@ var projets = [
       domaine : 1
   },
   images : [
-    "prive012_1.png",
-    "prive012_2.png",
-    "prive012_3.png",
-    "prive012_4.png",
-    "prive012_5.png",
-    "prive012_6.png",
-    "prive012_7.png"
-  ];
+    "Images/prive012_1.png",
+    "Images/prive012_2.png",
+    "Images/prive012_3.png",
+    "Images/prive012_4.png",
+    "Images/prive012_5.png",
+    "Images/prive012_6.png",
+    "Images/prive012_7.png"
+  ]
 },
   {
     projet : {
@@ -275,31 +275,283 @@ var projets = [
       domaine : 1
   },
   images : [
-    "prive013_1.png",
-    "prive013_2.png",
-    "prive013_3.png",
-    "prive013_4.png",
-    "prive013_5.png",
-    "prive013_6.png",
-    "prive013_7.png",
-    "prive013_8.png",
-    "prive013_9.png",
-    "prive013_910.png",
-    "prive013_911.png"
-  ];
+    "Images/prive013_1.png",
+    "Images/prive013_2.png",
+    "Images/prive013_3.png",
+    "Images/prive013_4.png",
+    "Images/prive013_5.png",
+    "Images/prive013_6.png",
+    "Images/prive013_7.png",
+    "Images/prive013_8.png",
+    "Images/prive013_9.png",
+    "Images/prive013_910.png",
+    "Images/prive013_911.png"
+  ]
 },
   {
     projet : {
-      titre : "",
-      lieu : "",
+      titre : "1 - Atelier de charpentier",
+      description : "Construction d'un atelier de charpentier attenant à des corps de bâtiments anciens",
+      lieu : "Le Petit-Pressigny (37)",
       annee : "2015",
       ouvrage : "Privé",
-      surface : "",
-      concept : "",
-      domaine : 1
+      surface : "630m²",
+      concept : "Volume crée pour la pratique d'un artisan charpentier. Espace de bureaux, de création et de stockage",
+      domaine : 2
   },
   images : [
-
-  ];
+    "Images/tertiaire001_1.png",
+    "Images/tertiaire001_2.png",
+    "Images/tertiaire001_3.png",
+    "Images/tertiaire001_4.jpg",
+    "Images/tertiaire001_5.jpg",
+    "Images/tertiaire001_6.png",
+    "Images/tertiaire001_7.jpg",
+    "Images/tertiaire001_8.jpg",
+    "Images/tertiaire001_9.jpg"
+  ]
 },
-]
+  {
+    projet : {
+      titre : "2 - Cabane ostréicole",
+      description : "Construction d'une cabane ostréicole",
+      lieu : "Prés-salés ouest - port de la Teste de Buch (33)",
+      annee : "2015",
+      ouvrage : "Privé",
+      surface : "72m²",
+      concept : "Cabane traditionnelle d'un ostréiculteur, à usage de production d'huîtres. Pignon sur port et bardage bois.",
+      domaine : 2
+  },
+  images : [
+    "Images/tertiaire002_1.png",
+    "Images/tertiaire002_2.png",
+    "Images/tertiaire002_3.png",
+    "Images/tertiaire002_4.png",
+    "Images/tertiaire002_5.png",
+    "Images/tertiaire002_6.png"
+  ]
+},
+  {
+    projet : {
+      titre : "3 - Cabane d'exploitation agricole",
+      description : "Construction d'une cabane à usage d'exploitation agricole",
+      lieu : "Prés-salés ouest - port de La Teste de Buch (33)",
+      annee : "2015",
+      ouvrage : "Privé",
+      surface : "200m²",
+      concept : "Cabane traditionnnelle aux dimensions exceptionnelles, à usage d'exploitation agricole liée aux activités maritimes.",
+      domaine : 2
+  },
+  images : [
+    "Images/tertiaire003_1.png",
+    "Images/tertiaire003_2.png",
+    "Images/tertiaire003_3.png",
+    "Images/tertiaire003_4.png",
+    "Images/tertiaire003_5.png",
+    "Images/tertiaire003_6.png",
+    "Images/tertiaire003_7.jpg"
+
+  ]
+},
+  {
+    projet : {
+      titre : "4 - Garages et Box",
+      description : "Construction de garages et de box à usage locatif",
+      lieu : "Zone d'activités industrielles - La Teste de Buch (33)",
+      annee : "2015",
+      ouvrage : "Privé",
+      surface : "200m²",
+      concept : "Création de locaux locatifs, de type garage et box, pour stockage.",
+      domaine : 2
+  },
+  images : [
+    "Images/tertiaire004_1.jpg",
+    "Images/tertiaire004_2.jpg",
+    "Images/tertiaire004_3.jpg",
+    "Images/tertiaire004_4.jpg",
+    "Images/tertiaire004_5.jpg"
+  ]
+},
+  {
+    projet : {
+      titre : "5 - Complexe Sportif",
+      description : "Construction d'un bâtiment multiplexe à usage sportif : rugby et foot en salle, squash, musculation, salles de conférence, bar et restaurant.",
+      lieu : "Zone de loisirs - quartier de Gujan-Mestras (33)",
+      annee : "2015",
+      ouvrage : "Privé",
+      surface : "16 200m²",
+      concept : "Fédérer autour d'un espace dédier au sport.",
+      domaine : 2
+  },
+  images : [
+    "Images/tertiaire005_1.png",
+    "Images/tertiaire005_2.png",
+    "Images/tertiaire005_3.png",
+    "Images/tertiaire005_4.png",
+    "Images/tertiaire005_5.png"
+  ]
+},
+  {
+    projet : {
+      titre : "6 - Cabinet médical",
+      description : "Mise en conformité d'un cabinet médical aux normes handicapées et incendies ",
+      lieu : "Quartier de la gare - La Teste de Buch (33)",
+      annee : "2016",
+      ouvrage : "Privé",
+      surface : "150m²",
+      concept : "Dossier de mise en conformité de l'établissement concernant les personnes à mobilité réduite et les normes de sécurité incendie. Réalisation d'un agenda programmé des travaux à effectuer.",
+      domaine : 2
+  },
+  images : [
+    "Images/tertiaire006_1.png",
+    "Images/tertiaire006_2.png",
+    "Images/tertiaire006_3.png",
+    "Images/tertiaire006_4.png",
+    "Images/tertiaire006_5.png"
+  ]
+},
+  {
+    projet : {
+      titre : "7 - Cabinet d'osteopathie",
+      description : "Mise en conformité d'un cabinet d'osteopathie aux normes handicapées et incendies",
+      lieu : "Quartier de la mairie - Biganos (33)",
+      annee : "2016",
+      ouvrage : "Privé",
+      surface : "70m²",
+      concept : "Dossier de mise en conformité de l'établissement concernant les personnes à mobilité réduite et les normes de sécurité incendie. Réalisation d'un agenda programmé des travaux à effectuer.",
+      domaine : 2
+  },
+  images : [
+    "Images/tertiaire007_1.png",
+    "Images/tertiaire007_2.png",
+    "Images/tertiaire007_3.png",
+    "Images/tertiaire007_4.png"
+  ]
+},
+  {
+    projet : {
+      titre : "1 - Piscine et annexe de maison",
+      description : "Construction d'une annexe de maison individuelle - type cuisine extérieure, garage, serre et atelier - d'une piscine, d'une terrasse, d'un boulodrome et aménagement paysager",
+      lieu : "Quartier de la place Thiers, La Teste de Buch (33)",
+      annee : "2016",
+      ouvrage : "Privé",
+      surface : "91m² & 65m² Piscine : 32m²",
+      concept : "Construction d'une annexe de jardin, de sa terrasse et d'une piscine intimisant en reproportionnant l'espace longitudinal du jardin. Etude d'un aménagement paysager.",
+      domaine : 3
+  },
+  images : [
+    "Images/ext001_1.png",
+    "Images/ext001_2.png",
+    "Images/ext001_3.png",
+    "Images/ext001_4.png",
+    "Images/ext001_5.png"
+  ]
+},
+  {
+    projet : {
+      titre : "2 - Piscine et terrasse",
+      description : "Construction d'une piscine et d'une terrasse. Aménagement du dénivelé paysager",
+      lieu : "Quartier du Super-Pyla - La Teste de Buch (33)",
+      annee : "2016",
+      ouvrage : "Privé",
+      surface : "50m²  Piscine : 20m²",
+      concept : "Nivellement du terrain et aménagement paysager pour la mise en valeur de la piscine et sa terrasse créée.",
+      domaine : 3
+    },
+    images : [
+      "Images/ext002_1.jpg",
+      "Images/ext002_2.png",
+      "Images/ext002_3.png",
+      "Images/ext002_4.jpg",
+      "Images/ext002_5.jpg",
+      "Images/ext002_6.jpg"
+    ]
+  },
+  {
+    projet : {
+      titre : "1 - Rénovation d'un local commercial",
+      description : "Rénovation d'un local d'esthéticienne en atelier d'architecture",
+      lieu : "Quartier du marché - La Teste de Buch (33)",
+      annee : "2015",
+      ouvrage : "Privé",
+      surface : "30m²",
+      concept : "Optimisation de l'espace du local adéquate à l'activité d'une agence d'architecture. Ouverture des espaces, distribution subtile des espaces de réunion, de travail et de vie interne à l'agence.",
+      domaine : 4
+    },
+    images : [
+      "Images/int001_1.jpg",
+      "Images/int001_2.jpg",
+      "Images/int001_3.jpg",
+      "Images/int001_4.jpg"
+    ]
+  },
+  {
+    projet : {
+      titre : "2 - Rénovation d'un appartement et d'un local commercial",
+      description : "Rénovation d'un appartement et d'un salon de coiffure",
+      lieu : "Quartier de la place Thiers - La Teste de Buch (33)",
+      annee : "2015",
+      ouvrage : "Privé",
+      surface : "60m² & 50 m²",
+      concept : "Remise en état d'un local commercial destiné à la location. Rénovation et aménagement intérieur d'un appartement. Création d'une entrée indépendante et d'une mezzanine dans la salle de vie afin d'optimiser la nouvelle hauteur sous plafond. Valorisation de la charpente.",
+      domaine : 4
+    },
+    images : [
+      "Images/int002_1.jpg",
+      "Images/int002_2.png",
+      "Images/int002_3.png",
+      "Images/int002_4.png",
+      "Images/int002_5.png",
+      "Images/int002_6.png",
+      "Images/int002_7.jpg",
+      "Images/int002_8.png",
+      "Images/int002_9.png"
+    ]
+  },
+  {
+    projet : {
+      titre : "3 - Salle de bain",
+      description : "Création d'une salle de bain",
+      lieu : "Quartier de la place Thiers - La Teste de Buch (33)",
+      annee : "2016",
+      ouvrage : "Privé",
+      surface : "5m²",
+      concept : "Optimiser un petit espace afin qu'il soit le plus fonctionnel possible.",
+      domaine : 4
+    },
+    images : [
+      "Images/int003_1.JPG",
+      "Images/int003_2.JPG",
+      "Images/int003_3.JPG"
+    ]
+  },
+  {
+    projet : {
+      titre : "4 - Salle de bain",
+      description : "Rénovation d'une salle de bain",
+      lieu : "Quartier des Abatilles - Arcachon (33)",
+      annee : "2015",
+      ouvrage : "Privé",
+      surface : "2m²",
+      concept : "Optimiser un petit espace afin qu'il soit le plus fonctionnel possible.",
+      domaine : 4
+    },
+    images : [
+      "Images/int004_1.png",
+      "Images/int004_2.png",
+      "Images/int004_3.png",
+      "Images/int004_4.png"
+    ]
+  },
+  {
+    projet : {
+      titre : "1 - Etude d'un aménagement urbain",
+      description : "Proposition d'un aménagement urbain de promenade",
+      lieu : "Prés-Salés - Port de la Teste de Buch (33)",
+      domaine : 5
+    },
+    images : [
+      "Images/div001_1.jpg"
+    ]
+  }
+];
