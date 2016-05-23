@@ -1,0 +1,90 @@
+
+#container_map{
+  margin-left:  18vw;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+#titre_contact{
+  padding: 5% 5% 3% 5%;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 3em;
+}
+
+#adresse{
+  font-weight: lighter;
+  font-size: 2em;
+}
+#container_map h4{
+  margin-bottom: 3%;
+  font-weight: 500;;
+}
+
+
+#horaires{
+  padding-left: 15px;
+}
+
+
+/*-----------------------------------------------------------Formulaire de contact*/
+#contactez_nous{
+  padding: 5% 5% 3% 5%;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 2em;
+  align-self: flex-start;
+}
+
+#container_contact{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;;
+  padding-top: 2%;
+  width: 90%;
+  margin-bottom: 150px;
+}
+#form{
+  margin-left:  18vw;
+}
+form{
+  padding: 3%;
+  margin-left: 3vw;
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  background-color: rgba(91,88,88, 0.9);
+  color: white;
+}
+input{
+  height: 40px;
+  margin-bottom: 20px;
+}
+button{
+  height: 40px;
+  width: 100px;
+  align-self: flex-end;
+  margin-top: 50px;
+}
+#telephone{
+  padding: 0 5% 3% 5%;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
+}
+#telephone p{
+  font-size: 1.1em;
+}
+#telephone span{
+  font-weight: bold;
+}
+#telephone img{
+  height: 100%;
+  width: 50%;
+}
+#left_form{
+  display: flex;
+  flex-direction: row;
+}

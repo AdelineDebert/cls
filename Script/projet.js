@@ -21,13 +21,14 @@ var projets = [
       domaine : 1
     },
     images : [
-      "Images/prive001_1.JPG",
-      "Images/prive001_2.JPG",
+      "Images/prive001_1.jpg",
+      "Images/prive001_2.jpg",
       "Images/prive001_3.jpg",
       "Images/prive001_4.jpg",
-      "Images/prive001_5.JPG",
-      "Images/prive001_6.png"
-    ]
+      "Images/prive001_5.jpg",
+      "Images/prive001_6.jpg"
+    ],
+    couverture : "Images/prive001_3.jpg"
   },
   {
     projet : {
@@ -42,14 +43,16 @@ var projets = [
       domaine : 1
     },
     images : [
-      "Images/prive002_1.png",
+      "Images/prive002_1.jpg",
       "Images/prive002_2.jpg",
-      "Images/prive002_3.png",
+      "Images/prive002_3.jpg",
       "Images/prive002_4.jpg",
-      "Images/prive002_5.png",
-      "Images/prive002_6.png",
-      "Images/prive002_7.png"
-    ]
+      "Images/prive002_5.jpg",
+      "Images/prive002_6.jpg",
+      "Images/prive002_7.jpg",
+      "Images/prive002_8.jpg"
+    ],
+    couverture : "Images/prive002_8.jpg"
   },
   {
     projet : {
@@ -65,13 +68,14 @@ var projets = [
       domaine : 1
     },
     images : [
-      "Images/prive003_1.png",
-      "Images/prive003_2.png",
-      "Images/prive003_3.png",
-      "Images/prive003_4.png",
-      "Images/prive003_5.png",
-      "Images/prive003_6.png"
-    ]
+      "Images/prive003_1.jpg",
+      "Images/prive003_2.jpg",
+      "Images/prive003_3.jpg",
+      "Images/prive003_4.jpg",
+      "Images/prive003_5.jpg",
+      "Images/prive003_6.jpg"
+    ],
+    couverture : "Images/prive003_6.jpg"
   },
   {
     projet : {
@@ -95,7 +99,8 @@ var projets = [
       "Images/prive004_8.jpg",
       "Images/prive004_9.jpg",
       "Images/prive004_910.jpg"
-    ]
+    ],
+    couverture : "Images/prive004_9.jpg"
   },
   {
     projet : {
@@ -116,8 +121,9 @@ var projets = [
       "Images/prive005_3.jpg",
       "Images/prive005_4.jpg",
       "Images/prive005_5.jpg",
-      "Images/prive005_6.jpg"
-    ]
+      "Images/prive005_6.jpg",
+    ],
+    couverture : "Images/prive005_6.jpg"
   },
   {
     projet : {
@@ -132,15 +138,15 @@ var projets = [
       domaine : 1
     },
     images : [
-      "Images/prive006_1.png",
-      "Images/prive006_2.png",
-      "Images/prive006_3.png",
-      "Images/prive006_4.png",
-      "Images/prive006_5.png",
-      "Images/prive006_6.png",
-      "Images/prive006_7.png",
-      "Images/prive006_8.jpg"
-    ]
+      "Images/prive006_1.jpg",
+      "Images/prive006_2.jpg",
+      "Images/prive006_3.jpg",
+      "Images/prive006_4.jpg",
+      "Images/prive006_5.jpg",
+      "Images/prive006_6.jpg",
+      "Images/prive006_7.jpg"
+    ],
+    couverture : "Images/prive006_7.jpg"
   },
   {
     projet : {
@@ -154,14 +160,15 @@ var projets = [
       domaine : 1
     },
     images : [
-      "Images/prive007_1.png",
-      "Images/prive007_2.png",
-      "Images/prive007_3.png",
-      "Images/prive007_4.png",
-      "Images/prive007_5.png",
-      "Images/prive007_6.png",
-      "Images/prive007_7.png"
-    ]
+      "Images/prive007_1.jpg",
+      "Images/prive007_2.jpg",
+      "Images/prive007_3.jpg",
+      "Images/prive007_4.jpg",
+      "Images/prive007_5.jpg",
+      "Images/prive007_6.jpg",
+      "Images/prive007_7.jpg"
+    ],
+    couverture : "Images/prive007_7.jpg"
   },
   {
     projet : {
@@ -176,13 +183,14 @@ var projets = [
       domaine : 1
   },
   images : [
-    "Images/prive008_1.png",
-    "Images/prive008_2.png",
-    "Images/prive008_3.png",
-    "Images/prive008_4.png",
-    "Images/prive008_5.png",
-    "Images/prive008_6.png"
-  ]
+    "Images/prive008_1.jpg",
+    "Images/prive008_2.jpg",
+    "Images/prive008_3.jpg",
+    "Images/prive008_4.jpg",
+    "Images/prive008_5.jpg",
+    "Images/prive008_6.jpg"
+  ],
+  couverture : "Images/prive008_6.jpg"
 },
   {
     projet : {
@@ -198,14 +206,15 @@ var projets = [
       domaine : 1
   },
   images : [
-    "Images/prive009_1.png",
+    "Images/prive009_1.jpg",
     "Images/prive009_2.jpg",
     "Images/prive009_3.jpg",
-    "Images/prive009_4.png",
-    "Images/prive009_5.png",
-    "Images/prive009_6.png",
-    "Images/prive009_7.png"
-  ]
+    "Images/prive009_4.jpg",
+    "Images/prive009_5.jpg",
+    "Images/prive009_6.jpg",
+    "Images/prive009_7.jpg"
+  ],
+  couverture : "Images/prive009_7.jpg"
 },
   {
     projet : {
@@ -226,7 +235,8 @@ var projets = [
     "Images/prive010_5.jpg",
     "Images/prive010_6.jpg",
     "Images/prive010_7.jpg"
-  ]
+  ],
+  couverture : "Images/prive010_7.jpg"
 },
   {
     projet : {
@@ -240,14 +250,14 @@ var projets = [
       domaine : 1
   },
   images : [
-    "Images/prive011_1.png",
-    "Images/prive011_2.png",
-    "Images/prive011_3.png",
-    "Images/prive011_4.png",
-    "Images/prive011_5.png",
-    "Images/prive011_6.png",
-    "Images/prive011_7.png"
-  ]
+    "Images/prive011_1.jpg",
+    "Images/prive011_2.jpg",
+    "Images/prive011_3.jpg",
+    "Images/prive011_4.jpg",
+    "Images/prive011_5.jpg",
+    "Images/prive011_6.jpg"
+  ],
+  couverture : "Images/prive011_6.jpg"
 },
   {
     projet : {
@@ -261,14 +271,15 @@ var projets = [
       domaine : 1
   },
   images : [
-    "Images/prive012_1.png",
-    "Images/prive012_2.png",
-    "Images/prive012_3.png",
-    "Images/prive012_4.png",
-    "Images/prive012_5.png",
-    "Images/prive012_6.png",
-    "Images/prive012_7.png"
-  ]
+    "Images/prive012_1.jpg",
+    "Images/prive012_2.jpg",
+    "Images/prive012_3.jpg",
+    "Images/prive012_4.jpg",
+    "Images/prive012_5.jpg",
+    "Images/prive012_6.jpg",
+    "Images/prive012_7.jpg"
+  ],
+  couverture : "Images/prive012_5.jpg"
 },
   {
     projet : {
@@ -283,18 +294,19 @@ var projets = [
       domaine : 1
   },
   images : [
-    "Images/prive013_1.png",
-    "Images/prive013_2.png",
-    "Images/prive013_3.png",
-    "Images/prive013_4.png",
-    "Images/prive013_5.png",
-    "Images/prive013_6.png",
-    "Images/prive013_7.png",
-    "Images/prive013_8.png",
-    "Images/prive013_9.png",
-    "Images/prive013_910.png",
-    "Images/prive013_911.png"
-  ]
+    "Images/prive013_1.jpg",
+    "Images/prive013_2.jpg",
+    "Images/prive013_3.jpg",
+    "Images/prive013_4.jpg",
+    "Images/prive013_5.jpg",
+    "Images/prive013_6.jpg",
+    "Images/prive013_7.jpg",
+    "Images/prive013_8.jpg",
+    "Images/prive013_9.jpg",
+    "Images/prive013_910.jpg",
+    "Images/prive013_911.jpg"
+  ],
+  couverture : "Images/prive013_7.jpg"
 },
   {
     projet : {
@@ -308,16 +320,17 @@ var projets = [
       domaine : 2
   },
   images : [
-    "Images/tertiaire001_1.png",
-    "Images/tertiaire001_2.png",
-    "Images/tertiaire001_3.png",
+    "Images/tertiaire001_1.jpg",
+    "Images/tertiaire001_2.jpg",
+    "Images/tertiaire001_3.jpg",
     "Images/tertiaire001_4.jpg",
     "Images/tertiaire001_5.jpg",
-    "Images/tertiaire001_6.png",
+    "Images/tertiaire001_6.jpg",
     "Images/tertiaire001_7.jpg",
     "Images/tertiaire001_8.jpg",
     "Images/tertiaire001_9.jpg"
-  ]
+  ],
+  couverture : "Images/tertiaire001_9.jpg"
 },
   {
     projet : {
@@ -331,13 +344,14 @@ var projets = [
       domaine : 2
   },
   images : [
-    "Images/tertiaire002_1.png",
-    "Images/tertiaire002_2.png",
-    "Images/tertiaire002_3.png",
-    "Images/tertiaire002_4.png",
-    "Images/tertiaire002_5.png",
-    "Images/tertiaire002_6.png"
-  ]
+    "Images/tertiaire002_1.jpg",
+    "Images/tertiaire002_2.jpg",
+    "Images/tertiaire002_3.jpg",
+    "Images/tertiaire002_4.jpg",
+    "Images/tertiaire002_5.jpg",
+    "Images/tertiaire002_6.jpg"
+  ],
+  couverture : "Images/tertiaire002_6.jpg"
 },
   {
     projet : {
@@ -351,15 +365,14 @@ var projets = [
       domaine : 2
   },
   images : [
-    "Images/tertiaire003_1.png",
-    "Images/tertiaire003_2.png",
-    "Images/tertiaire003_3.png",
-    "Images/tertiaire003_4.png",
-    "Images/tertiaire003_5.png",
-    "Images/tertiaire003_6.png",
-    "Images/tertiaire003_7.jpg"
-
-  ]
+    "Images/tertiaire003_1.jpg",
+    "Images/tertiaire003_2.jpg",
+    "Images/tertiaire003_3.jpg",
+    "Images/tertiaire003_4.jpg",
+    "Images/tertiaire003_5.jpg",
+    "Images/tertiaire003_6.jpg"
+  ],
+  couverture : "Images/tertiaire003_5.jpg"
 },
   {
     projet : {
@@ -378,7 +391,8 @@ var projets = [
     "Images/tertiaire004_3.jpg",
     "Images/tertiaire004_4.jpg",
     "Images/tertiaire004_5.jpg"
-  ]
+  ],
+  couverture : "Images/tertiaire004_5.jpg"
 },
   {
     projet : {
@@ -392,12 +406,15 @@ var projets = [
       domaine : 2
   },
   images : [
-    "Images/tertiaire005_1.png",
-    "Images/tertiaire005_2.png",
-    "Images/tertiaire005_3.png",
-    "Images/tertiaire005_4.png",
-    "Images/tertiaire005_5.png"
-  ]
+    "Images/tertiaire005_1.jpg",
+    "Images/tertiaire005_2.jpg",
+    "Images/tertiaire005_3.jpg",
+    "Images/tertiaire005_4.jpg",
+    "Images/tertiaire005_5.jpg",
+    "Images/tertiaire005_6.jpg",
+    "Images/tertiaire005_7.jpg"
+  ],
+  couverture : "Images/tertiaire005_7.jpg"
 },
   {
     projet : {
@@ -411,12 +428,12 @@ var projets = [
       domaine : 2
   },
   images : [
-    "Images/tertiaire006_1.png",
-    "Images/tertiaire006_2.png",
-    "Images/tertiaire006_3.png",
-    "Images/tertiaire006_4.png",
-    "Images/tertiaire006_5.png"
-  ]
+    "Images/tertiaire006_1.jpg",
+    "Images/tertiaire006_2.jpg",
+    "Images/tertiaire006_3.jpg",
+    "Images/tertiaire006_4.jpg"
+  ],
+  couverture : "Images/tertiaire006_4.jpg"
 },
   {
     projet : {
@@ -430,11 +447,27 @@ var projets = [
       domaine : 2
   },
   images : [
-    "Images/tertiaire007_1.png",
-    "Images/tertiaire007_2.png",
-    "Images/tertiaire007_3.png",
-    "Images/tertiaire007_4.png"
-  ]
+    "Images/tertiaire007_1.jpg",
+    "Images/tertiaire007_2.jpg",
+    "Images/tertiaire007_3.jpg",
+    "Images/tertiaire007_4.jpg"
+  ],
+  couverture : "Images/tertiaire007_4.jpg"
+},
+  {
+    projet : {
+      titre : "Réfection de façade d'hôtel",
+      description : "Réfection de façade d'hôtel",
+      annee : "2016",
+      ouvrage : "Privé",
+      domaine : 2
+  },
+  images : [
+    "Images/tertiaire008_1.jpg",
+    "Images/tertiaire008_2.jpg",
+    "Images/tertiaire008_3.jpg"
+  ],
+  couverture : "Images/tertiaire008_3.jpg"
 },
   {
     projet : {
@@ -448,12 +481,14 @@ var projets = [
       domaine : 3
   },
   images : [
-    "Images/ext001_1.png",
-    "Images/ext001_2.png",
-    "Images/ext001_3.png",
-    "Images/ext001_4.png",
-    "Images/ext001_5.png"
-  ]
+    "Images/ext001_1.jpg",
+    "Images/ext001_2.jpg",
+    "Images/ext001_3.jpg",
+    "Images/ext001_4.jpg",
+    "Images/ext001_5.jpg",
+    "Images/ext001_6.jpg"
+  ],
+  couverture : "Images/ext001_6.jpg"
 },
   {
     projet : {
@@ -468,12 +503,11 @@ var projets = [
     },
     images : [
       "Images/ext002_1.jpg",
-      "Images/ext002_2.png",
-      "Images/ext002_3.png",
-      "Images/ext002_4.jpg",
-      "Images/ext002_5.jpg",
-      "Images/ext002_6.jpg"
-    ]
+      "Images/ext002_2.jpg",
+      "Images/ext002_3.jpg",
+      "Images/ext002_4.jpg"
+    ],
+    couverture : "Images/ext002_4.jpg"
   },
   {
     projet : {
@@ -490,8 +524,10 @@ var projets = [
       "Images/int001_1.jpg",
       "Images/int001_2.jpg",
       "Images/int001_3.jpg",
-      "Images/int001_4.jpg"
-    ]
+      "Images/int001_4.jpg",
+      "Images/int001_5.jpg"
+    ],
+    couverture : "Images/int001_5.jpg"
   },
   {
     projet : {
@@ -506,15 +542,16 @@ var projets = [
     },
     images : [
       "Images/int002_1.jpg",
-      "Images/int002_2.png",
-      "Images/int002_3.png",
-      "Images/int002_4.png",
-      "Images/int002_5.png",
-      "Images/int002_6.png",
+      "Images/int002_2.jpg",
+      "Images/int002_3.jpg",
+      "Images/int002_4.jpg",
+      "Images/int002_5.jpg",
+      "Images/int002_6.jpg",
       "Images/int002_7.jpg",
-      "Images/int002_8.png",
-      "Images/int002_9.png"
-    ]
+      "Images/int002_8.jpg",
+      "Images/int002_9.jpg"
+    ],
+    couverture : "Images/int002_9.jpg"
   },
   {
     projet : {
@@ -528,10 +565,11 @@ var projets = [
       domaine : 4
     },
     images : [
-      "Images/int003_1.JPG",
-      "Images/int003_2.JPG",
-      "Images/int003_3.JPG"
-    ]
+      "Images/int003_1.jpg",
+      "Images/int003_2.jpg",
+      "Images/int003_3.jpg"
+    ],
+    couverture : "Images/int003_1.jpg"
   },
   {
     projet : {
@@ -545,11 +583,12 @@ var projets = [
       domaine : 4
     },
     images : [
-      "Images/int004_1.png",
-      "Images/int004_2.png",
-      "Images/int004_3.png",
-      "Images/int004_4.png"
-    ]
+      "Images/int004_1.jpg",
+      "Images/int004_2.jpg",
+      "Images/int004_3.jpg",
+      "Images/int004_4.jpg"
+    ],
+    couverture : "Images/int004_4.jpg"
   },
   {
     projet : {
@@ -560,7 +599,20 @@ var projets = [
     },
     images : [
       "Images/div001_1.jpg"
-    ]
+    ],
+    couverture : "Images/div001_1.jpg"
+  },
+  {
+    projet : {
+      titre : "Diplôme de fin d'études d'architecture",
+      domaine : 5
+    },
+    images : [
+      "Images/div002_1.jpg",
+      "Images/div002_2.jpg",
+      "Images/div002_3.jpg"
+    ],
+    couverture : "Images/div002_1.jpg"
   }
 ];
 
@@ -595,7 +647,7 @@ function giveMeDiv(i){
   newDiv.addEventListener("click", function(){
     background_image(0);
   });
-  newDiv.style.backgroundImage = "url("+projets[i].images[0]+")";
+  newDiv.style.backgroundImage = "url("+projets[i].couverture+")";
   newSpan = document.createElement("span");
   newDiv.appendChild(newSpan);
   newSpan.textContent = projets[i].projet.titre;
@@ -660,11 +712,19 @@ function details(index){
   slider_projet.style.visibility = "visible";
   var current_project = projets[index].projet;
   projet_des.textContent = current_project.description;
-  projet_conc.textContent = "Concept : " + current_project.concept;
+  if (current_project.concept != undefined){
+    projet_conc.textContent = "Concept : " + current_project.concept;
+  }
   projet_lieu.textContent = current_project.lieu;
-  projet_annee.textContent = "Année : " + current_project.annee;
-  projet_ouvr.textContent = "Maître d'ouvrage : " + current_project.ouvrage;
-  projet_surface.textContent = "Surface : " + current_project.surface;
+  if (current_project.annee != undefined){
+    projet_annee.textContent = "Année : " + current_project.annee;
+  }
+  if (current_project.ouvrage != undefined){
+    projet_ouvr.textContent = "Maître d'ouvrage : " + current_project.ouvrage;
+  }
+  if (current_project.surface != undefined){
+    projet_surface.textContent = "Surface : " + current_project.surface;
+  }
 }
 
 

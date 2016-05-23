@@ -74,18 +74,27 @@ header{
 
 /*---------------------------------Header atelier*/
 #container_presentation{
-  margin-left: 15vw;
+  margin-left:  18vw;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
 #titre_atelier{
-  padding: 5% 5% 0% 5%;
+  padding: 5% 5% 3% 5%;
   font-family: 'Architects Daughter', cursive;
   font-size: 3em;
+  align-self: flex-start;
+  /*margin-left: 18vw;*/
 }
 #galerie_photo_atelier{
+  width: 100%;
+  padding: 1vw;
+  /*text-align: center;*/
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  margin-top: 5%;
+  /*margin-top: 5%;*/
   margin-bottom: 5%;
   align-items: baseline;
 }
@@ -102,6 +111,7 @@ header{
   display: flex;
   align-items: center;
   justify-content: space-between;
+  /*margin-right: 4vw;*/
   width: 20vw;
   height: 30vh;
   background-size: cover;
@@ -130,17 +140,67 @@ header{
 
 #container_texte_atelier{
   height: 30vh;
-  margin: 10px;
+  /*margin: 10px;*/
   z-index: -10;
 }
 #presentation_atelier, #presentation_carole, #presentation_equipe{
-  padding: 0% 10% 10% 10%;
+  padding: 0% 5% 5% 5%;
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
 }
-#presentation_carole, #presentation_equipe{
+#presentation_atelier, #presentation_carole, #presentation_equipe{
   display: none;
 }
 
+.citation{
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.citation span{
+  font-style: italic;
+}
 
+#presentation_equipe h4, #presentation_atelier h4{
+  margin-bottom: 2%;
+}
+
+.description{
+  margin-bottom: 4%;
+}
+#description_mot{
+  font-weight: bold;
+}
+.description_atelier, #description_mot{
+  margin-bottom: 10px;
+}
+#presentation_atelier li{
+  margin-left: 50px;
+  margin-bottom: 10px;
+  list-style-type: none;
+}
+#presentation_atelier li:before{
+  content:"- ";
+}
+
+
+.collab{
+  margin-top: 3%;
+}
+
+#titre_musique{
+  margin-top: 4%;
+}
+
+#musique{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 4%;
+}
+#musique iframe{
+  margin-bottom: 2%;
+}
 /*------------------------------------------------------------------------------LES PROJETS*/
 
 #container_projets{
@@ -208,12 +268,16 @@ header{
 }
 
 /*------------------------------ Boutons de filtre des projets*/
+#filtre_projet{
+}
 
 #filtre_projet ul{
   list-style-type: none;
   display: flex;
   justify-content: flex-start;;
   margin-left: 4vw;
+  margin-top: 3%;
+
 }
 
 #filtre_projet li{
@@ -240,6 +304,7 @@ header{
   margin-left: 20vw;
   margin-bottom: 5vh;
   margin-top: 2vh;
+  padding-top :2vh
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -333,7 +398,7 @@ header{
   /*margin: 2vw;*/
   margin-right: 5vw;
   margin-top: 2vw;
-  margin-bottom: 2vw;
+  margin-bottom: 3vw;
 }
 #details_projet div {
   width: 80%;
