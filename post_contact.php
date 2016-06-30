@@ -20,8 +20,9 @@ if(!empty($errors)){
 }else{
   $_SESSION['success'] = 1;
   $message = $_POST['message'];
-  $headers = 'FROM: quelquechose';
-  mail('adlin1706@hotmail.com', 'Formulaire de contact', $message, $headers);
+  $email = $_POST['email'];
+  $headers = 'FROM: '.$email;
+  mail('cls.architecte@gmail.com', 'Formulaire de contact', $message, $headers);
   header('Location: contact.php');
 }
 

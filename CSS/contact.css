@@ -1,70 +1,14 @@
-
 #container_map{
-  margin-left:  18vw;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-}
-
-#titre_contact{
-  padding: 5% 5% 3% 5%;
-  font-family: 'Architects Daughter', cursive;
-  font-size: 3em;
-}
-
-#adresse{
-  font-weight: lighter;
-  font-size: 2em;
-}
-#container_map h4{
-  margin-bottom: 3%;
-  font-weight: 500;;
-}
-
-
-#horaires{
-  padding-left: 15px;
-}
-
-
-/*-----------------------------------------------------------Formulaire de contact*/
-#contactez_nous{
-  padding: 5% 5% 3% 5%;
-  font-family: 'Architects Daughter', cursive;
-  font-size: 2em;
-  align-self: flex-start;
-}
-
-#container_contact{
   display: flex;
   flex-direction: row;
   justify-content: space-between;;
-  padding-top: 2%;
+  padding-top: 3%;
   width: 90%;
-  margin-bottom: 150px;
 }
-#form{
-  margin-left:  18vw;
-}
-form{
-  padding: 3%;
-  margin-left: 3vw;
-  display: flex;
-  flex-direction: column;
-  width: 50vw;
-  background-color: rgba(91,88,88, 0.9);
-  color: white;
-}
-input{
-  height: 40px;
-  margin-bottom: 20px;
-}
-button{
-  height: 40px;
-  width: 100px;
-  align-self: flex-end;
-  margin-top: 50px;
+#titre_contact{
+  padding: 0% 5% 0 5%;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 2.3em;
 }
 #telephone{
   padding: 0 5% 3% 5%;
@@ -74,17 +18,79 @@ button{
   justify-content: space-around;
   text-align: center;
 }
-#telephone p{
-  font-size: 1.1em;
+#telephone p:not(#titre_contact){
+  font-size: 1.3em;
+  font-weight: 300;
 }
 #telephone span{
   font-weight: bold;
 }
-#telephone img{
-  height: 100%;
-  width: 50%;
+#horaires{
+  padding-left: 15px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  font-size: 1.5em;
+  font-weight: 300;
+  text-align: center;
 }
-#left_form{
+#horaires span{
+  font-weight: 700;
+}
+.sous_horaire{
+  padding-left: 15px;
+  text-align: center;
+}
+
+
+
+
+/*-----------------------------------------------------------Formulaire de contact*/
+
+#container_contact{
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
+  margin-top: 40px;
+  padding-top: 3%;
+  width: 90%;
+}
+#form{
+  margin-left: 18vw;
+}
+form{
+  padding: 2%;
+  margin-left: 4vw;
+  display: flex;
+  flex-direction: column;
+  width: 30vw;
+  border: 1px solid rgb(91,88,88);
+  color: rgb(91,88,88);
+}
+input{
+  height: 40px;
+  margin-bottom: 15px;
+}
+button{
+  height: 40px;
+  width: 100px;
+  align-self: flex-end;
+  margin-top: 50px;
+}
+#container_contact img{
+  width: auto;
+  height: 450px;
+}
+
+/*----------------------------------------Message d'erreur ou d'envoi du message formulaire*/
+#success, #error{
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  color: white;
+}
+#success{
+  background-color: #00B23C;
+}
+#error{
+  background-color: #AE1915;
 }

@@ -16,19 +16,18 @@ var projets = [
       lieu : "Quartier des Abatilles - Arcachon (33)",
       annee : "2015",
       ouvrage : "Privé",
-      surface : "",
       concept : "Dialogue entre une maison traditionnelle arcachonnaise et une architecture contemporaine. Création d’une intimité au sein d’un terrain entouré par la voie publique. Volonté de garder un grand espace paysager.",
       domaine : 1
     },
     images : [
-      "Images/prive001_1.jpg",
-      "Images/prive001_2.jpg",
-      "Images/prive001_3.jpg",
-      "Images/prive001_4.jpg",
-      "Images/prive001_5.jpg",
-      "Images/prive001_6.jpg"
+      "images/projets/prive001_1.jpg",
+      "images/projets/prive001_2.jpg",
+      "images/projets/prive001_3.jpg",
+      "images/projets/prive001_4.jpg",
+      "images/projets/prive001_5.jpg",
+      "images/projets/prive001_6.jpg"
     ],
-    couverture : "Images/prive001_3.jpg"
+    couverture : "images/projets/prive001_3.jpg"
   },
   {
     projet : {
@@ -39,20 +38,20 @@ var projets = [
       annee : "2016",
       ouvrage : "Privé",
       surface : "220m²",
-      concept : "Réorganisation des espaces intérieurs. Création de pièces de nuit supplémentaires et d’appartements autonomes liées à une maison existante rénovée. Besoin de préserver les espaces extérieurs : terrasses basses, hautes et toiture terrasse donnant sur la forêt.",
+      concept : "Réorganisation des espaces intérieurs. Création de pièces de nuit supplémentaires et d’appartements autonomes liés à une maison existante rénovée. Besoin de préserver les espaces extérieurs : terrasses basses, hautes et toiture terrasse donnant sur la forêt.",
       domaine : 1
     },
     images : [
-      "Images/prive002_1.jpg",
-      "Images/prive002_2.jpg",
-      "Images/prive002_3.jpg",
-      "Images/prive002_4.jpg",
-      "Images/prive002_5.jpg",
-      "Images/prive002_6.jpg",
-      "Images/prive002_7.jpg",
-      "Images/prive002_8.jpg"
+      "images/projets/prive002_1.jpg",
+      "images/projets/prive002_2.jpg",
+      "images/projets/prive002_3.jpg",
+      "images/projets/prive002_4.jpg",
+      "images/projets/prive002_5.jpg",
+      "images/projets/prive002_6.jpg",
+      "images/projets/prive002_7.jpg",
+      "images/projets/prive002_8.jpg"
     ],
-    couverture : "Images/prive002_8.jpg"
+    couverture : "images/projets/prive002_8.jpg"
   },
   {
     projet : {
@@ -64,18 +63,18 @@ var projets = [
       annee : "2016",
       ouvrage : "Privé",
       surface : "115m²",
-      concept : "Concept : Volonté d’un intérieur ouvert et d’une architecture mélant anecdotes traditionnelles et touches contemporaines. Diagnostique spacial pour une architecture offrant la meilleure ergonomie. Végétation omni-présente.",
+      concept : "Volonté d’un intérieur ouvert et d’une architecture mêlant anecdotes traditionnelles et touches contemporaines. Diagnostique spacial pour une architecture offrant la meilleure ergonomie. Végétation omni-présente.",
       domaine : 1
     },
     images : [
-      "Images/prive003_1.jpg",
-      "Images/prive003_2.jpg",
-      "Images/prive003_3.jpg",
-      "Images/prive003_4.jpg",
-      "Images/prive003_5.jpg",
-      "Images/prive003_6.jpg"
+      "images/projets/prive003_1.jpg",
+      "images/projets/prive003_2.jpg",
+      "images/projets/prive003_3.jpg",
+      "images/projets/prive003_4.jpg",
+      "images/projets/prive003_5.jpg",
+      "images/projets/prive003_6.jpg"
     ],
-    couverture : "Images/prive003_6.jpg"
+    couverture : "images/projets/prive003_6.jpg"
   },
   {
     projet : {
@@ -89,18 +88,18 @@ var projets = [
       domaine : 1
     },
     images : [
-      "Images/prive004_1.jpg",
-      "Images/prive004_2.jpg",
-      "Images/prive004_3.jpg",
-      "Images/prive004_4.jpg",
-      "Images/prive004_5.jpg",
-      "Images/prive004_6.jpg",
-      "Images/prive004_7.jpg",
-      "Images/prive004_8.jpg",
-      "Images/prive004_9.jpg",
-      "Images/prive004_910.jpg"
+      "images/projets/prive004_1.jpg",
+      "images/projets/prive004_2.jpg",
+      "images/projets/prive004_3.jpg",
+      "images/projets/prive004_4.jpg",
+      "images/projets/prive004_5.jpg",
+      "images/projets/prive004_6.jpg",
+      "images/projets/prive004_7.jpg",
+      "images/projets/prive004_8.jpg",
+      "images/projets/prive004_9.jpg",
+      "images/projets/prive004_910.jpg"
     ],
-    couverture : "Images/prive004_9.jpg"
+    couverture : "images/projets/prive004_9.jpg"
   },
   {
     projet : {
@@ -112,18 +111,18 @@ var projets = [
       annee : "2015",
       ouvrage : "Privé",
       surface : "123m²",
-      concept : "Création d’une intimité de maison secondaire. Différents espaces de vie crées pour des perceptions variées de la construction.",
+      concept : "Création d’une intimité de maison secondaire. Différents espaces de vie créés pour des perceptions variées de la construction.",
       domaine : 1
     },
     images : [
-      "Images/prive005_1.jpg",
-      "Images/prive005_2.jpg",
-      "Images/prive005_3.jpg",
-      "Images/prive005_4.jpg",
-      "Images/prive005_5.jpg",
-      "Images/prive005_6.jpg",
+      "images/projets/prive005_1.jpg",
+      "images/projets/prive005_2.jpg",
+      "images/projets/prive005_3.jpg",
+      "images/projets/prive005_4.jpg",
+      "images/projets/prive005_5.jpg",
+      "images/projets/prive005_6.jpg",
     ],
-    couverture : "Images/prive005_6.jpg"
+    couverture : "images/projets/prive005_6.jpg"
   },
   {
     projet : {
@@ -138,15 +137,15 @@ var projets = [
       domaine : 1
     },
     images : [
-      "Images/prive006_1.jpg",
-      "Images/prive006_2.jpg",
-      "Images/prive006_3.jpg",
-      "Images/prive006_4.jpg",
-      "Images/prive006_5.jpg",
-      "Images/prive006_6.jpg",
-      "Images/prive006_7.jpg"
+      "images/projets/prive006_1.jpg",
+      "images/projets/prive006_2.jpg",
+      "images/projets/prive006_3.jpg",
+      "images/projets/prive006_4.jpg",
+      "images/projets/prive006_5.jpg",
+      "images/projets/prive006_6.jpg",
+      "images/projets/prive006_7.jpg"
     ],
-    couverture : "Images/prive006_7.jpg"
+    couverture : "images/projets/prive006_7.jpg"
   },
   {
     projet : {
@@ -160,15 +159,15 @@ var projets = [
       domaine : 1
     },
     images : [
-      "Images/prive007_1.jpg",
-      "Images/prive007_2.jpg",
-      "Images/prive007_3.jpg",
-      "Images/prive007_4.jpg",
-      "Images/prive007_5.jpg",
-      "Images/prive007_6.jpg",
-      "Images/prive007_7.jpg"
+      "images/projets/prive007_1.jpg",
+      "images/projets/prive007_2.jpg",
+      "images/projets/prive007_3.jpg",
+      "images/projets/prive007_4.jpg",
+      "images/projets/prive007_5.jpg",
+      "images/projets/prive007_6.jpg",
+      "images/projets/prive007_7.jpg"
     ],
-    couverture : "Images/prive007_7.jpg"
+    couverture : "images/projets/prive007_7.jpg"
   },
   {
     projet : {
@@ -183,14 +182,14 @@ var projets = [
       domaine : 1
   },
   images : [
-    "Images/prive008_1.jpg",
-    "Images/prive008_2.jpg",
-    "Images/prive008_3.jpg",
-    "Images/prive008_4.jpg",
-    "Images/prive008_5.jpg",
-    "Images/prive008_6.jpg"
+    "images/projets/prive008_1.jpg",
+    "images/projets/prive008_2.jpg",
+    "images/projets/prive008_3.jpg",
+    "images/projets/prive008_4.jpg",
+    "images/projets/prive008_5.jpg",
+    "images/projets/prive008_6.jpg"
   ],
-  couverture : "Images/prive008_6.jpg"
+  couverture : "images/projets/prive008_6.jpg"
 },
   {
     projet : {
@@ -206,15 +205,15 @@ var projets = [
       domaine : 1
   },
   images : [
-    "Images/prive009_1.jpg",
-    "Images/prive009_2.jpg",
-    "Images/prive009_3.jpg",
-    "Images/prive009_4.jpg",
-    "Images/prive009_5.jpg",
-    "Images/prive009_6.jpg",
-    "Images/prive009_7.jpg"
+    "images/projets/prive009_1.jpg",
+    "images/projets/prive009_2.jpg",
+    "images/projets/prive009_3.jpg",
+    "images/projets/prive009_4.jpg",
+    "images/projets/prive009_5.jpg",
+    "images/projets/prive009_6.jpg",
+    "images/projets/prive009_7.jpg"
   ],
-  couverture : "Images/prive009_7.jpg"
+  couverture : "images/projets/prive009_7.jpg"
 },
   {
     projet : {
@@ -223,20 +222,19 @@ var projets = [
       lieu : "Le Petit-Pressigny (37)",
       annee : "2015",
       ouvrage : "Privé",
-      surface : "",
       concept : "Terrain dans le périmètre d’une église classée aux Bâtiment de France. Obligation d’intégration de l’extension via une rupture de volume et de matériaux mais en articulation implicite.",
       domaine : 1
   },
   images : [
-    "Images/prive010_1.jpg",
-    "Images/prive010_2.jpg",
-    "Images/prive010_3.jpg",
-    "Images/prive010_4.jpg",
-    "Images/prive010_5.jpg",
-    "Images/prive010_6.jpg",
-    "Images/prive010_7.jpg"
+    "images/projets/prive010_1.jpg",
+    "images/projets/prive010_2.jpg",
+    "images/projets/prive010_3.jpg",
+    "images/projets/prive010_4.jpg",
+    "images/projets/prive010_5.jpg",
+    "images/projets/prive010_6.jpg",
+    "images/projets/prive010_7.jpg"
   ],
-  couverture : "Images/prive010_7.jpg"
+  couverture : "images/projets/prive010_7.jpg"
 },
   {
     projet : {
@@ -250,36 +248,36 @@ var projets = [
       domaine : 1
   },
   images : [
-    "Images/prive011_1.jpg",
-    "Images/prive011_2.jpg",
-    "Images/prive011_3.jpg",
-    "Images/prive011_4.jpg",
-    "Images/prive011_5.jpg",
-    "Images/prive011_6.jpg"
+    "images/projets/prive011_1.jpg",
+    "images/projets/prive011_2.jpg",
+    "images/projets/prive011_3.jpg",
+    "images/projets/prive011_4.jpg",
+    "images/projets/prive011_5.jpg",
+    "images/projets/prive011_6.jpg"
   ],
-  couverture : "Images/prive011_6.jpg"
+  couverture : "images/projets/prive011_6.jpg"
 },
   {
     projet : {
       titre : "Extension d'une maison en deux logements",
-      description : "Construction d'une extension de aison individuelle en deux logements distincts",
+      description : "Construction d'une extension de maison individuelle en deux logements distincts",
       lieu : "Quartier Saint-Exupéry - La Teste de Buch (33)",
       annee : "2015",
       ouvrage : "Privé",
       surface : "265m²",
-      concept : "Extension du bâti existant pour son agrandissement et pour la création d’une seconde maison en deuxième ligne. Entrées distinctes de sorte à ce que l&#39;accès de la nouvelle maison s&#39;effectue sans gène en fond de parcelle. Alliance de bardage bois et d’enduit.",
+      concept : "Extension du bâti existant pour son agrandissement et pour la création d’une seconde maison en deuxième ligne. Entrées distinctes de sorte à ce que l'accès de la nouvelle maison s'effectue sans gène en fond de parcelle. Alliance de bardage bois et d’enduit.",
       domaine : 1
   },
   images : [
-    "Images/prive012_1.jpg",
-    "Images/prive012_2.jpg",
-    "Images/prive012_3.jpg",
-    "Images/prive012_4.jpg",
-    "Images/prive012_5.jpg",
-    "Images/prive012_6.jpg",
-    "Images/prive012_7.jpg"
+    "images/projets/prive012_1.jpg",
+    "images/projets/prive012_2.jpg",
+    "images/projets/prive012_3.jpg",
+    "images/projets/prive012_4.jpg",
+    "images/projets/prive012_5.jpg",
+    "images/projets/prive012_6.jpg",
+    "images/projets/prive012_7.jpg"
   ],
-  couverture : "Images/prive012_5.jpg"
+  couverture : "images/projets/prive012_5.jpg"
 },
   {
     projet : {
@@ -294,19 +292,19 @@ var projets = [
       domaine : 1
   },
   images : [
-    "Images/prive013_1.jpg",
-    "Images/prive013_2.jpg",
-    "Images/prive013_3.jpg",
-    "Images/prive013_4.jpg",
-    "Images/prive013_5.jpg",
-    "Images/prive013_6.jpg",
-    "Images/prive013_7.jpg",
-    "Images/prive013_8.jpg",
-    "Images/prive013_9.jpg",
-    "Images/prive013_910.jpg",
-    "Images/prive013_911.jpg"
+    "images/projets/prive013_1.jpg",
+    "images/projets/prive013_2.jpg",
+    "images/projets/prive013_3.jpg",
+    "images/projets/prive013_4.jpg",
+    "images/projets/prive013_5.jpg",
+    "images/projets/prive013_6.jpg",
+    "images/projets/prive013_7.jpg",
+    "images/projets/prive013_8.jpg",
+    "images/projets/prive013_9.jpg",
+    "images/projets/prive013_910.jpg",
+    "images/projets/prive013_911.jpg"
   ],
-  couverture : "Images/prive013_7.jpg"
+  couverture : "images/projets/prive013_7.jpg"
 },
   {
     projet : {
@@ -316,21 +314,21 @@ var projets = [
       annee : "2015",
       ouvrage : "Privé",
       surface : "630m²",
-      concept : "Volume crée pour la pratique d'un artisan charpentier. Espace de bureaux, de création et de stockage",
+      concept : "Volume crée pour la pratique d'un artisan charpentier. Espace de bureaux, de création et de stockage.",
       domaine : 2
   },
   images : [
-    "Images/tertiaire001_1.jpg",
-    "Images/tertiaire001_2.jpg",
-    "Images/tertiaire001_3.jpg",
-    "Images/tertiaire001_4.jpg",
-    "Images/tertiaire001_5.jpg",
-    "Images/tertiaire001_6.jpg",
-    "Images/tertiaire001_7.jpg",
-    "Images/tertiaire001_8.jpg",
-    "Images/tertiaire001_9.jpg"
+    "images/projets/tertiaire001_1.jpg",
+    "images/projets/tertiaire001_2.jpg",
+    "images/projets/tertiaire001_3.jpg",
+    "images/projets/tertiaire001_4.jpg",
+    "images/projets/tertiaire001_5.jpg",
+    "images/projets/tertiaire001_6.jpg",
+    "images/projets/tertiaire001_7.jpg",
+    "images/projets/tertiaire001_8.jpg",
+    "images/projets/tertiaire001_9.jpg"
   ],
-  couverture : "Images/tertiaire001_9.jpg"
+  couverture : "images/projets/tertiaire001_9.jpg"
 },
   {
     projet : {
@@ -344,14 +342,14 @@ var projets = [
       domaine : 2
   },
   images : [
-    "Images/tertiaire002_1.jpg",
-    "Images/tertiaire002_2.jpg",
-    "Images/tertiaire002_3.jpg",
-    "Images/tertiaire002_4.jpg",
-    "Images/tertiaire002_5.jpg",
-    "Images/tertiaire002_6.jpg"
+    "images/projets/tertiaire002_1.jpg",
+    "images/projets/tertiaire002_2.jpg",
+    "images/projets/tertiaire002_3.jpg",
+    "images/projets/tertiaire002_4.jpg",
+    "images/projets/tertiaire002_5.jpg",
+    "images/projets/tertiaire002_6.jpg"
   ],
-  couverture : "Images/tertiaire002_6.jpg"
+  couverture : "images/projets/tertiaire002_6.jpg"
 },
   {
     projet : {
@@ -365,14 +363,14 @@ var projets = [
       domaine : 2
   },
   images : [
-    "Images/tertiaire003_1.jpg",
-    "Images/tertiaire003_2.jpg",
-    "Images/tertiaire003_3.jpg",
-    "Images/tertiaire003_4.jpg",
-    "Images/tertiaire003_5.jpg",
-    "Images/tertiaire003_6.jpg"
+    "images/projets/tertiaire003_1.jpg",
+    "images/projets/tertiaire003_2.jpg",
+    "images/projets/tertiaire003_3.jpg",
+    "images/projets/tertiaire003_4.jpg",
+    "images/projets/tertiaire003_5.jpg",
+    "images/projets/tertiaire003_6.jpg"
   ],
-  couverture : "Images/tertiaire003_5.jpg"
+  couverture : "images/projets/tertiaire003_5.jpg"
 },
   {
     projet : {
@@ -382,17 +380,17 @@ var projets = [
       annee : "2015",
       ouvrage : "Privé",
       surface : "200m²",
-      concept : "Création de locaux locatifs, de type garage et box, pour stockage.",
+      concept : "Création de locaux locatifs, de type garages et boxs pour stockage.",
       domaine : 2
   },
   images : [
-    "Images/tertiaire004_1.jpg",
-    "Images/tertiaire004_2.jpg",
-    "Images/tertiaire004_3.jpg",
-    "Images/tertiaire004_4.jpg",
-    "Images/tertiaire004_5.jpg"
+    "images/projets/tertiaire004_1.jpg",
+    "images/projets/tertiaire004_2.jpg",
+    "images/projets/tertiaire004_3.jpg",
+    "images/projets/tertiaire004_4.jpg",
+    "images/projets/tertiaire004_5.jpg"
   ],
-  couverture : "Images/tertiaire004_5.jpg"
+  couverture : "images/projets/tertiaire004_5.jpg"
 },
   {
     projet : {
@@ -406,15 +404,15 @@ var projets = [
       domaine : 2
   },
   images : [
-    "Images/tertiaire005_1.jpg",
-    "Images/tertiaire005_2.jpg",
-    "Images/tertiaire005_3.jpg",
-    "Images/tertiaire005_4.jpg",
-    "Images/tertiaire005_5.jpg",
-    "Images/tertiaire005_6.jpg",
-    "Images/tertiaire005_7.jpg"
+    "images/projets/tertiaire005_1.jpg",
+    "images/projets/tertiaire005_2.jpg",
+    "images/projets/tertiaire005_3.jpg",
+    "images/projets/tertiaire005_4.jpg",
+    "images/projets/tertiaire005_5.jpg",
+    "images/projets/tertiaire005_6.jpg",
+    "images/projets/tertiaire005_7.jpg"
   ],
-  couverture : "Images/tertiaire005_7.jpg"
+  couverture : "images/projets/tertiaire005_7.jpg"
 },
   {
     projet : {
@@ -428,12 +426,12 @@ var projets = [
       domaine : 2
   },
   images : [
-    "Images/tertiaire006_1.jpg",
-    "Images/tertiaire006_2.jpg",
-    "Images/tertiaire006_3.jpg",
-    "Images/tertiaire006_4.jpg"
+    "images/projets/tertiaire006_1.jpg",
+    "images/projets/tertiaire006_2.jpg",
+    "images/projets/tertiaire006_3.jpg",
+    "images/projets/tertiaire006_4.jpg"
   ],
-  couverture : "Images/tertiaire006_4.jpg"
+  couverture : "images/projets/tertiaire006_4.jpg"
 },
   {
     projet : {
@@ -447,27 +445,28 @@ var projets = [
       domaine : 2
   },
   images : [
-    "Images/tertiaire007_1.jpg",
-    "Images/tertiaire007_2.jpg",
-    "Images/tertiaire007_3.jpg",
-    "Images/tertiaire007_4.jpg"
+    "images/projets/tertiaire007_1.jpg",
+    "images/projets/tertiaire007_2.jpg",
+    "images/projets/tertiaire007_3.jpg",
+    "images/projets/tertiaire007_4.jpg"
   ],
-  couverture : "Images/tertiaire007_4.jpg"
+  couverture : "images/projets/tertiaire007_4.jpg"
 },
   {
     projet : {
       titre : "Réfection de façade d'hôtel",
       description : "Réfection de façade d'hôtel",
       annee : "2016",
+      concept : "",
       ouvrage : "Privé",
       domaine : 2
   },
   images : [
-    "Images/tertiaire008_1.jpg",
-    "Images/tertiaire008_2.jpg",
-    "Images/tertiaire008_3.jpg"
+    "images/projets/tertiaire008_1.jpg",
+    "images/projets/tertiaire008_2.jpg",
+    "images/projets/tertiaire008_3.jpg"
   ],
-  couverture : "Images/tertiaire008_3.jpg"
+  couverture : "images/projets/tertiaire008_3.jpg"
 },
   {
     projet : {
@@ -481,14 +480,14 @@ var projets = [
       domaine : 3
   },
   images : [
-    "Images/ext001_1.jpg",
-    "Images/ext001_2.jpg",
-    "Images/ext001_3.jpg",
-    "Images/ext001_4.jpg",
-    "Images/ext001_5.jpg",
-    "Images/ext001_6.jpg"
+    "images/projets/ext001_1.jpg",
+    "images/projets/ext001_2.jpg",
+    "images/projets/ext001_3.jpg",
+    "images/projets/ext001_4.jpg",
+    "images/projets/ext001_5.jpg",
+    "images/projets/ext001_6.jpg"
   ],
-  couverture : "Images/ext001_6.jpg"
+  couverture : "images/projets/ext001_6.jpg"
 },
   {
     projet : {
@@ -502,12 +501,12 @@ var projets = [
       domaine : 3
     },
     images : [
-      "Images/ext002_1.jpg",
-      "Images/ext002_2.jpg",
-      "Images/ext002_3.jpg",
-      "Images/ext002_4.jpg"
+      "images/projets/ext002_1.jpg",
+      "images/projets/ext002_2.jpg",
+      "images/projets/ext002_3.jpg",
+      "images/projets/ext002_4.jpg"
     ],
-    couverture : "Images/ext002_4.jpg"
+    couverture : "images/projets/ext002_4.jpg"
   },
   {
     projet : {
@@ -521,13 +520,13 @@ var projets = [
       domaine : 4
     },
     images : [
-      "Images/int001_1.jpg",
-      "Images/int001_2.jpg",
-      "Images/int001_3.jpg",
-      "Images/int001_4.jpg",
-      "Images/int001_5.jpg"
+      "images/projets/int001_1.jpg",
+      "images/projets/int001_2.jpg",
+      "images/projets/int001_3.jpg",
+      "images/projets/int001_4.jpg",
+      "images/projets/int001_5.jpg"
     ],
-    couverture : "Images/int001_5.jpg"
+    couverture : "images/projets/int001_5.jpg"
   },
   {
     projet : {
@@ -541,17 +540,17 @@ var projets = [
       domaine : 4
     },
     images : [
-      "Images/int002_1.jpg",
-      "Images/int002_2.jpg",
-      "Images/int002_3.jpg",
-      "Images/int002_4.jpg",
-      "Images/int002_5.jpg",
-      "Images/int002_6.jpg",
-      "Images/int002_7.jpg",
-      "Images/int002_8.jpg",
-      "Images/int002_9.jpg"
+      "images/projets/int002_1.jpg",
+      "images/projets/int002_2.jpg",
+      "images/projets/int002_3.jpg",
+      "images/projets/int002_4.jpg",
+      "images/projets/int002_5.jpg",
+      "images/projets/int002_6.jpg",
+      "images/projets/int002_7.jpg",
+      "images/projets/int002_8.jpg",
+      "images/projets/int002_9.jpg"
     ],
-    couverture : "Images/int002_9.jpg"
+    couverture : "images/projets/int002_9.jpg"
   },
   {
     projet : {
@@ -565,11 +564,11 @@ var projets = [
       domaine : 4
     },
     images : [
-      "Images/int003_1.jpg",
-      "Images/int003_2.jpg",
-      "Images/int003_3.jpg"
+      "images/projets/int003_1.jpg",
+      "images/projets/int003_2.jpg",
+      "images/projets/int003_3.jpg"
     ],
-    couverture : "Images/int003_1.jpg"
+    couverture : "images/projets/int003_1.jpg"
   },
   {
     projet : {
@@ -583,36 +582,38 @@ var projets = [
       domaine : 4
     },
     images : [
-      "Images/int004_1.jpg",
-      "Images/int004_2.jpg",
-      "Images/int004_3.jpg",
-      "Images/int004_4.jpg"
+      "images/projets/int004_1.jpg",
+      "images/projets/int004_2.jpg",
+      "images/projets/int004_3.jpg",
+      "images/projets/int004_4.jpg"
     ],
-    couverture : "Images/int004_4.jpg"
+    couverture : "images/projets/int004_4.jpg"
   },
   {
     projet : {
       titre : "Etude d'un aménagement urbain",
       description : "Proposition d'un aménagement urbain de promenade",
+      concept : "",
       lieu : "Prés-Salés - Port de la Teste de Buch (33)",
       domaine : 5
     },
     images : [
-      "Images/div001_1.jpg"
+      "images/projets/div001_1.jpg"
     ],
-    couverture : "Images/div001_1.jpg"
+    couverture : "images/projets/div001_1.jpg"
   },
   {
     projet : {
       titre : "Diplôme de fin d'études d'architecture",
+      concept : "",
       domaine : 5
     },
     images : [
-      "Images/div002_1.jpg",
-      "Images/div002_2.jpg",
-      "Images/div002_3.jpg"
+      "images/projets/div002_1.jpg",
+      "images/projets/div002_2.jpg",
+      "images/projets/div002_3.jpg"
     ],
-    couverture : "Images/div002_1.jpg"
+    couverture : "images/projets/div002_1.jpg"
   }
 ];
 
@@ -647,10 +648,11 @@ function giveMeDiv(i){
   newDiv.addEventListener("click", function(){
     background_image(0);
   });
-  newDiv.style.backgroundImage = "url("+projets[i].couverture+")";
   newSpan = document.createElement("span");
   newDiv.appendChild(newSpan);
   newSpan.textContent = projets[i].projet.titre;
+  newDiv.style.backgroundImage = "url("+projets[i].couverture+")";
+  console.log(projets[i].projet.titre);
 }
 
 
@@ -666,8 +668,9 @@ function filter(n){
   if(n === 0){
     project_gallery();
   }
-  for(var i = 0; i <= projets.length; i++){
+  for(var i = 0; i < projets.length; i++){
     if(projets[i].projet.domaine === n){
+      console.log(projets[i]);
       giveMeDiv(i);
     }
   }

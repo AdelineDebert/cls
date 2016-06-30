@@ -1,0 +1,111 @@
+
+/*Responsive pour les petits écrans*/
+
+/*Page d'accueil*/
+
+@media screen and (max-width: 1024px){
+
+/*#section_menu{
+  height: 20vh
+}*/
+#menu{
+  height: 10vh;
+  width: 100vw;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: 1.5em;
+}
+#menu ul{
+  flex-direction: row;
+}
+#menu li {
+  padding: 0% 5% 5% 5%;
+  margin-right: 5vw;
+}
+#menu ul:first-child{
+  /*margin-left: 20vw;*/
+}
+#logo_menu img{
+  margin-bottom: 0;
+  width: 5vw;
+}
+#container_titre{
+  margin-left: 0;
+  padding-top: 15vh;
+}
+#titre{
+  font-size: 1em;
+}
+#container{
+  margin-left: 0;
+}
+
+/*Page Atelier*/
+
+#container_presentation{
+  margin-left: 0;
+  padding-top: 15vh;
+}
+.img_galerie{
+  width: 25vw;
+  height: 30vh;
+}
+
+
+/*Page de contact*/
+
+#container_contact, #container_map{
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+#titre_contact:first-child{
+  padding-top: 15vh;
+
+}
+#form{
+  margin-left: 0;
+  text-align: center;
+}
+#telephone{
+  width: 100%;
+}
+
+form{
+  width: 60vw;
+}
+#container_contact img{
+  display: none;
+}
+
+/*Partie projets*/
+#container_projets{
+  margin-left: 0;
+  padding-top: 15vh;
+}
+#filtre_projet ul{
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+#filtre_projet li{
+  width: auto;
+}
+}
+
+@media screen and (max-width: 900px){
+  #galerie_photo_atelier{
+    visibility: hidden;
+  }
+  #galerie_photo_atelier{
+    display: none;
+  }
+  #presentation_atelier, #presentation_carole, #presentation_equipe{
+    display: block;
+  }
+  .project_div{
+    height: 20vh;
+    width: 25vw;
+  }
+
+}
